@@ -69,7 +69,8 @@ RTL realization
 
 ### TIMING DIAGRAM
 
-![164241126-0c182b82-6619-47e3-bfa6-88b5a3b7b2c4](https://user-images.githubusercontent.com/94154531/190228271-81654803-f5be-48f6-b0aa-f4e940fa69a1.png)
+![190230203-1b99c1ef-334b-4d81-9504-4ab1902177d5](https://user-images.githubusercontent.com/94154531/201923174-8e207500-8c2e-416e-a9ec-45ae99ee9a22.jpg)
+
 
 
 ### TRUTH TABLE
@@ -82,7 +83,8 @@ RTL realization
 ![164736152-8ab77950-c466-4859-b58a-89a403b93a23](https://user-images.githubusercontent.com/94154531/190225668-b9d35654-aedf-445e-bf8b-7abd4bde4794.png)
 ### Timing Diagram
 
- ![164455712-701ead16-9633-494c-8504-b19833e7c6a3](https://user-images.githubusercontent.com/94154531/190228370-41e5aeb4-dcca-40ec-aa60-9db4e9c4d2ac.png)
+ 
+![190229331-94358af3-95be-4e94-8c3c-260a5f35c826](https://user-images.githubusercontent.com/94154531/201923114-b9dac97f-b9a8-4dbe-9205-1cf14551ab4c.jpg)
 
 
 ### Result:
